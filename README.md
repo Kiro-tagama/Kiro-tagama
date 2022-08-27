@@ -1,4 +1,7 @@
-## Oi eu sou Rodrigo
+# Oi eu sou Rodrigo 
+### dev Front | ReactJS e React Native
+<br/>
+
 <div align="center">
   <a href="https://github.com/Kiro-tagama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiro-tagama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +16,7 @@
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-  
+
   ##
  
 <div align="center"> 
