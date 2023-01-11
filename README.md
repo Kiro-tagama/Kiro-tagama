@@ -1,5 +1,6 @@
-# Oi eu sou Rodrigo 
+# Oi eu sou Rodrigo 👾
 ### dev Front | ReactJS e React Native
+<p>Meu objetivo é ser uma referencia como um dev Full-Stack partindo do Front-End</p>
 
 <p>
 Meu foco principal é Front-End com a tecnologia React, curso computação na USJT (7/8 semestre) 
