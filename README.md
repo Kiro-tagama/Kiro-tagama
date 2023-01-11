@@ -1,5 +1,15 @@
 # Oi eu sou Rodrigo 
 ### dev Front | ReactJS e React Native
+
+<p>
+Meu foco principal é Front-End com a tecnologia React, curso computação na USJT (7/8 semestre) 
+<br/>
+Meu conhecimento em Back-End é mais básico com as tecnologias NodeJS, Express e MySQL 
+<br/>
+E quanto a Design uso a ferramenta Figma 
+<br/>
+Atualmente estudando Redux
+</p>
 <br/>
 
 <div align="center">
