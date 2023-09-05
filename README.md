@@ -2,7 +2,7 @@
 ### dev Front | ReactJS e React Native
 <p>Meu objetivo é ser uma referencia como um dev Full-Stack partindo do Front-End</p>
 <p>
-Meu foco principal é Front-End com a tecnologia React, curso computação na USJT (7/8 semestre);
+Meu foco principal é Front-End com a tecnologia React, curso computação na USJT 
 <br/>
 Em Back-End é mais básico com as tecnologias NodeJS, Express e MySQL;
 <br/>
