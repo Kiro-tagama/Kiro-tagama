@@ -22,7 +22,7 @@ E quanto a Design uso a ferramenta Figma;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwindcss,figma)](https://skillicons.dev)
 
 ### Back Stacks
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgres,mysql,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgres,mysql,firebase,mongodb,redis)](https://skillicons.dev)
 
 ### Demais Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,linux,docker)](https://skillicons.dev)
